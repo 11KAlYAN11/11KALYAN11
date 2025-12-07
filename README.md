@@ -82,12 +82,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11kalyan11&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=11kalyan11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11kalyan11&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=11kalyan11&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
