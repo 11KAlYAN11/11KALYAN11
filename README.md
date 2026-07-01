@@ -103,7 +103,7 @@ portfolio : https://asam-pavan-kumar-reddy.vercel.app/
     <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" />
   </a>
 </p>
-website: or portfolio : https://asam-pavan-kumar-reddy.vercel.app/
+website: or portfolio : https://asampavankumarreddy.site/
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to reach out or collaborate.*
