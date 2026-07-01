@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Java Developer • DevOps Engineer • Spring Boot • Docker • Kubernetes • AWS • CI/CD • Salesforce 2x Certified • UI</h3>
 
 ---
-portfolio : https://asam-pavan-kumar-reddy.vercel.app/
+portfolio : https://asampavankumarreddy.site/
 ### 👨‍💻 About Me  
 - 💻 I’m primarily a **Full-Stack Java Developer** with strong **DevOps skills**  
 - 🔭 Experienced in **Java, Spring Boot, Microservices, ORM frameworks**  
